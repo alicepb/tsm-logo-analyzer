@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+app_data.sqlite3
+datasets/
+results/
+saved_results/
+saved_results_v2/
+library/
